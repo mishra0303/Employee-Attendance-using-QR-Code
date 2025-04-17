@@ -20,7 +20,7 @@ import utility.BDutility;
 
 /**
  *
- * @author Pranshu
+ * @author Vaibhav
  */
 public class UpdateUser extends javax.swing.JFrame {
 
