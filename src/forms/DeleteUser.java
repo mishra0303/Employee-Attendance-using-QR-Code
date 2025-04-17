@@ -18,7 +18,7 @@ import utility.BDutility;
 
 /**
  *
- * @author Pranshu
+
  */
 public class DeleteUser extends javax.swing.JFrame {
 
