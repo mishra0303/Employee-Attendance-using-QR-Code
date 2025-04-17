@@ -25,7 +25,7 @@ import net.glxn.qrgen.javase.QRCode;
 
 /**
  *
- * @author Pranshu
+ * @author vaibhav
  */
 public class Generateqr extends javax.swing.JFrame {
 
