@@ -55,7 +55,7 @@ import utility.BDutility;
 
 /**
  *
- * @author Pranshu
+ * @author Vaibhav
  */
 public class MarkAttendance extends javax.swing.JFrame implements Runnable, ThreadFactory {
 
