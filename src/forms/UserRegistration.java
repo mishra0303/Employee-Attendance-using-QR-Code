@@ -19,7 +19,7 @@ import java.sql.*;
 
 /**
  *
- * @author Pranshu
+ * @author Vaibhav
  */
 public class UserRegistration extends javax.swing.JFrame {
 
