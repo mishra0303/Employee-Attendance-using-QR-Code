@@ -19,7 +19,7 @@ import javax.swing.table.TableModel;
 
 /**
  *
- * @author Pranshu
+ * @author Vaibhav
  */
 public class ViewUser extends javax.swing.JFrame {
 
