@@ -15,7 +15,7 @@ import utility.BDutility;
 
 /**
  *
- * @author Pranshu
+ * @author Vaibhav
  */
 public class viewQrs extends javax.swing.JFrame {
 
